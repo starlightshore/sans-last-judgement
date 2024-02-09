@@ -1,0 +1,5 @@
+/// @desc
+draw_self();
+
+
+
