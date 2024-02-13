@@ -54,6 +54,5 @@
     {"name":"obj_cutscene","order":17,"path":"objects/obj_cutscene/obj_cutscene.yy",},
     {"name":"spr_sans_logo","order":3,"path":"sprites/spr_sans_logo/spr_sans_logo.yy",},
     {"name":"spr_sans_port_exp1","order":2,"path":"sprites/spr_sans_port_exp1/spr_sans_port_exp1.yy",},
-    {"name":"spr_hi","order":34,"path":"sprites/spr_hi/spr_hi.yy",},
   ],
 }

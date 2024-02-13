@@ -61,12 +61,6 @@ text_set_silent_chars(" /n/t");
 text_add_char_delay(".,;:!?", 6);
 text_set_gain(0.5);
 
-dialog_character("jeff", sprite_2, sprite_0, snd_dialog_sans, {
-	happy : sprite_1,
-	happy_talk : sprite_0,
-	normal : sprite_2,
-	normal_talk : sprite_0,
-});
 
 dialog_character("sans", spr_sans_port_exp1, spr_sans_port_exp1, snd_dialog_sans, {
 	def : spr_sans_port_exp1,
